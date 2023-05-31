@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola a todos. 👋
+
+Qué tal, mi nombre es Samuel Guzmán, me apaciona el mundo de la tecnología, actualmente estoy estudiando para incrementar mis skills en esta área y poder desarrollarme aún más en este maravilloso mundo.
 
 <!--
 **SGuzman88/SGuzman88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
